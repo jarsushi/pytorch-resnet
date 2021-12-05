@@ -1,0 +1,13 @@
+Resnet Links
+
+https://towardsdatascience.com/understanding-and-visualizing-resnets-442284831be8
+
+https://towardsdatascience.com/resnets-residual-blocks-deep-residual-learning-a231a0ee73d2
+
+https://towardsdatascience.com/residual-network-implementing-resnet-a7da63c7b278
+
+https://github.com/FrancescoSaverioZuppichini/ResNet
+
+https://arxiv.org/pdf/1512.03385.pdf
+
+https://towardsdatascience.com/architectures-part-3-34dcfd979344
