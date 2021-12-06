@@ -11,3 +11,5 @@ https://github.com/FrancescoSaverioZuppichini/ResNet
 https://arxiv.org/pdf/1512.03385.pdf
 
 https://towardsdatascience.com/architectures-part-3-34dcfd979344
+
+https://towardsdatascience.com/pytorch-layer-dimensions-what-sizes-should-they-be-and-why-4265a41e01fd
